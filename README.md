@@ -1,4 +1,4 @@
-# Hi, I'm Tehmina Khan 👋
+# Tehmina Khan
 
 **Computer System Engineer | AI/ML & LLM | Computer Vision | Full-Stack Development**
 
