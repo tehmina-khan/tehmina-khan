@@ -38,7 +38,7 @@ My projects range from deep learning-based video analysis and RAG applications t
 
 ### 🎥 [AI-Powered Surveillance System](https://github.com/tehmina-khan/FYDP-2022F-Surveillance-System-Deployed)
 
-**Computer Vision · Deep Learning · TimeSformer · PyTorch · MERN**
+**Computer Vision · Deep Learning · Video Analysis · Spatio-temporal Learning · TimeSformer · PyTorch · MERN**
 
 A real-time AI surveillance system designed to detect violent activity from camera feeds and assist security teams with automated incident monitoring.
 
@@ -52,7 +52,7 @@ A real-time AI surveillance system designed to detect violent activity from came
 
 ---
 
-### 💬 AskDB
+### 💬 [AskDB](https://github.com/tehmina-khan/AskDB-Conversational-Database-Assistant)
 
 **LLM · RAG · Text-to-SQL · Gemini · LangChain · MySQL**
 
