@@ -1,8 +1,8 @@
 # Hi, I'm Tehmina Khan 👋
 
-**Computer System Engineer | AI/ML | Computer Vision | Full-Stack Development**
+**Computer System Engineer | AI/ML & LLM | Computer Vision | Full-Stack Development**
 
-I build AI-powered and full-stack applications, with a focus on **Computer Vision, Machine Learning, LLM applications, and practical software systems**.
+I build AI-powered and full-stack applications focused on **SaaS, web apps, computer vision, machine learning, LLM applications, and practical software systems**.
 
 My projects range from deep learning-based video analysis and RAG applications to full-stack web applications and client websites.
 
@@ -39,6 +39,8 @@ My projects range from deep learning-based video analysis and RAG applications t
 ### 🎥 [AI-Powered Surveillance System](https://github.com/tehmina-khan/FYDP-2022F-Surveillance-System-Deployed)
 
 **Computer Vision · Deep Learning · Video Analysis · Spatio-temporal Learning · TimeSformer · PyTorch · MERN**
+ 
+[Live Website](https://ai-powered-surveillance-system.netlify.app/) · [B.Eng Thesis](https://drive.google.com/file/d/1pQemP6t1YAFZaYApa1zwiAmAso-nr2WX/view?usp=drive_link) 
 
 A real-time AI surveillance system designed to detect violent activity from camera feeds and assist security teams with automated incident monitoring.
 
@@ -47,8 +49,6 @@ A real-time AI surveillance system designed to detect violent activity from came
 * Developed Python-based data preprocessing, model training, evaluation, and inference pipelines using PyTorch and OpenCV, processing 16,000+ video samples across training, validation & testing workflows. 
 * Designed error handling, authentication, authorization, and role-based access control for 2 user roles, securing access to monitoring and administrative functionality.
 
-
-[**Live Demo →**](https://ai-powered-surveillance-system.netlify.app/)
 
 ---
 
@@ -71,6 +71,8 @@ A natural-language database assistant that allows users to interact with structu
 
 **HTML · CSS · JavaScript · GitHub Pages**
 
+[**Live Website →**](https://muneerahzia.github.io/website/)
+
 A responsive portfolio website designed and developed for a professional librarian to present their experience, services, expertise and contact information.
 
 * Responsive, mobile-friendly interface
@@ -79,13 +81,13 @@ A responsive portfolio website designed and developed for a professional librari
 * Client-focused design and content presentation
 * Deployed through GitHub Pages
 
-[**Live Website →**](https://muneerahzia.github.io/website/)
-
 ---
 
 ### 🫀 [Cardiovascular Disease Prediction System](https://github.com/tehmina-khan/Cardiovascular-Disease-Risk-Prediction-System)
 
 **Python · Machine Learning · Data Analysis**
+
+[Live Demo](https://cardiovascular-disease-risk-prediction-system-cbn6rnasjxpreyqf.streamlit.app/)
 
 A machine learning-based application developed to analyze cardiovascular risk factors and predict cardiovascular disease risk.
 
