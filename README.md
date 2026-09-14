@@ -25,7 +25,7 @@ My projects range from deep learning-based video analysis and RAG applications t
 * **Backend & APIs:** Node.js, Express.js, RESTful APIs, JWT, WebSockets
 * **Frontend:** React.js, Responsive Design, Component-Based Architecture, Familiarity with Angular
 * **Databases:** MongoDB, MySQL, SQL Server
-* **Testing & QA:** PyTest, xUnit/NUnit, Jest, Cypress, Playwright, Postman, Cucumber/Gherkin, GitHub Actions
+* **Testing & QA:** PyTest, Postman, GitHub Actions
 * **Software Engineering & Tools:** Object-Oriented Programming (OOP), Software Development Lifecycle (SDLC), Git
 * **AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib
 * **Generative AI:** Gemini, LangChain, RAG, Prompt Engineering, Few-Shot Learning, ChromaDB, Hugging Face
