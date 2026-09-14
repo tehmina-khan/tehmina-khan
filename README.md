@@ -8,7 +8,7 @@ My projects range from deep learning-based video analysis and RAG applications t
 
 ---
 
-## 🔬 What I Work On
+## What I Work On
 
 * 🤖 Artificial Intelligence & Machine Learning
 * 👁️ Computer Vision & Video Analysis
@@ -19,7 +19,7 @@ My projects range from deep learning-based video analysis and RAG applications t
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 * **Languages:** JavaScript, Python, C#, SQL, HTML5, CSS3
 * **Backend & APIs:** Node.js, Express.js, RESTful APIs, JWT, WebSockets
@@ -34,7 +34,7 @@ My projects range from deep learning-based video analysis and RAG applications t
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### 🎥 [AI-Powered Surveillance System](https://github.com/tehmina-khan/FYDP-2022F-Surveillance-System-Deployed)
 
@@ -52,7 +52,7 @@ A real-time AI surveillance system designed to detect violent activity from came
 
 ---
 
-### 💬 [AskDB](https://github.com/tehmina-khan/AskDB-Conversational-Database-Assistant)
+### [AskDB](https://github.com/tehmina-khan/AskDB-Conversational-Database-Assistant)
 
 **LLM · RAG · Text-to-SQL · Gemini · LangChain · MySQL**
 
@@ -67,7 +67,7 @@ A natural-language database assistant that allows users to interact with structu
 
 ---
 
-### 🌐 [Librarian Portfolio Website](https://github.com/tehmina-khan/librarian-portfolio-website)
+### [Librarian Portfolio Website](https://github.com/tehmina-khan/librarian-portfolio-website)
 
 **HTML · CSS · JavaScript · GitHub Pages**
 
@@ -83,7 +83,7 @@ A responsive portfolio website designed and developed for a professional librari
 
 ---
 
-### 🫀 [Cardiovascular Disease Prediction System](https://github.com/tehmina-khan/Cardiovascular-Disease-Risk-Prediction-System)
+### [Cardiovascular Disease Prediction System](https://github.com/tehmina-khan/Cardiovascular-Disease-Risk-Prediction-System)
 
 **Python · Machine Learning · Data Analysis**
 
@@ -95,7 +95,7 @@ The project explores data preprocessing, model development and prediction throug
 
 ---
 
-### 💬 [MERN Real-Time Chat Application](https://github.com/tehmina-khan/MyChatApp-Using-React)
+### [MERN Real-Time Chat Application](https://github.com/tehmina-khan/MyChatApp-Using-React)
 
 **React · Node.js · Express.js · MongoDB · WebSockets · JWT**
 
@@ -111,7 +111,7 @@ A full-stack real-time messaging application demonstrating client-server archite
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 **Computer Vision · Video Understanding · Deep Learning · Applied Machine Learning · LLM Applications · AI Agents**
 
@@ -119,11 +119,19 @@ I am highly interested in exploring research oppertunities. My primary research 
 
 ---
 
-## 📚 Currently Exploring
+## Currently Exploring
 
 **Agentic AI & Robotics**
 
 Exploring AI agents, agent orchestration, model integration, APIs, and robotics technologies.
+
+---
+
+## Currently Building
+
+* Business and portfolio websites
+* Web application with integrated Inventory Management System
+* AI and LLM systems
 
 ---
 
