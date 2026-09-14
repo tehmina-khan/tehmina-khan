@@ -42,13 +42,11 @@ My projects range from deep learning-based video analysis and RAG applications t
 
 A real-time AI surveillance system designed to detect violent activity from camera feeds and assist security teams with automated incident monitoring.
 
-* Video-based violence detection using deep learning
-* Real-time camera analysis with OpenCV
-* Automated incident recording and cloud storage
-* Email and SMS alerting
-* Secure dashboard with authentication and role-based access control
-* React frontend with Node.js/Express backend
-* MongoDB Atlas, Cloudinary and cloud deployment
+* Developed and integrated a video anomaly-detection system into a full-stack MERN application, evaluating 8 TimeSformer and 3D CNN model variants, with the final model achieving 98.87% test accuracy using a group-based evaluation approach.
+* Integrated the best-performing deep-learning model with React, Node.js, Express.js, and MongoDB, deploying the application through Railway and Netlify with centralized incident monitoring, role-based access management, and real-time SMS/email incident alerts.
+* Developed Python-based data preprocessing, model training, evaluation, and inference pipelines using PyTorch and OpenCV, processing 16,000+ video samples across training, validation & testing workflows. 
+* Designed error handling, authentication, authorization, and role-based access control for 2 user roles, securing access to monitoring and administrative functionality.
+
 
 [**Live Demo →**](https://ai-powered-surveillance-system.netlify.app/)
 
@@ -115,7 +113,7 @@ A full-stack real-time messaging application demonstrating client-server archite
 
 **Computer Vision · Video Understanding · Deep Learning · Applied Machine Learning · LLM Applications · AI Agents**
 
-My primary research interest is **Computer Vision**, particularly AI systems that can understand and analyze visual information in real-world environments.
+I am highly interested in exploring research oppertunities. My primary research interest is **Computer Vision**, particularly AI systems that can understand and analyze visual information in real-world environments.
 
 ---
 
