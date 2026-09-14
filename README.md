@@ -71,7 +71,7 @@ A natural-language database assistant that allows users to interact with structu
 
 **HTML · CSS · JavaScript · GitHub Pages**
 
-[**Live Website →**](https://muneerahzia.github.io/website/)
+[Live Website](https://muneerahzia.github.io/website/)
 
 A responsive portfolio website designed and developed for a professional librarian to present their experience, services, expertise and contact information.
 
