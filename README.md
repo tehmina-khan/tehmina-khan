@@ -40,7 +40,7 @@ My projects range from deep learning-based video analysis and RAG applications t
 
 **Computer Vision · Deep Learning · Video Analysis · Spatio-temporal Learning · TimeSformer · PyTorch · MERN**
  
-[Live Website](https://ai-powered-surveillance-system.netlify.app/) · [B.Eng Thesis](https://drive.google.com/file/d/1pQemP6t1YAFZaYApa1zwiAmAso-nr2WX/view?usp=drive_link) 
+[Live Website](https://ai-powered-surveillance-system.netlify.app/) · [B.Eng Thesis](https://drive.google.com/file/d/1IxDo6-GqSSH2A_Xl0t3j2_wHf54PF0Kp/view?usp=drive_link) 
 
 A real-time AI surveillance system designed to detect violent activity from camera feeds and assist security teams with automated incident monitoring.
 
